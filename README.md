@@ -1,6 +1,8 @@
-# lantern
-## 连不上的我也没办法，也不关我事，可能是蓝灯服务器被封了，我有时候也连不上，可以试试改DNS：114.114.114.114 如果有人有办法，发issus告诉大家，我也想知道，谢谢。
-蓝灯破解
+# Shadowsocks + V2Ray配置文件
+---
+## lantern,ss都没了，[改V2Ray了vmess.txt](vmess.txt) 10月12号可用，深圳阿里云测试过
+---
+蓝灯破解（已经废了）
 
 完整的学习教程：[地址](https://github.com/ntkernel/lantern/blob/master/学习教程.md)，
 想自己研究的可以去原版破解地址：https://github.com/JuncoJet/unlimited-landeng-for-win
@@ -21,9 +23,11 @@
 
 用lordPE(https://github.com/ntkernel/file/blob/master/LoadPe.7z  )往lantern.exe(4.4.0)添加导入表，import lantern.dll patch +,然后自己看教程吧。
 
-**--LLT：我上传的所有文件和教程仅供学习和交流，请不要用于商业或违法用途。谢谢！**
+**--：我上传的所有文件和教程仅供学习和交流，请不要用于商业或违法用途。谢谢！**
 
-
-##友情链接
+---
+## 友情链接
 
 [windows激活](https://github.com/ntkernel/windows-activate)
+
+[ZwTerminateProcess](https://github.com/ntkernel/ZwTerminateProcess)
